@@ -281,6 +281,8 @@ enum {
     EP213B_122x250_4GRAY, // 2.13" 122x250 Waveshare v2
     EP29_168x384, // GDEY029T71H
     EP29_168x384_4GRAY, // GDEY029T71H
+    EP368_792x528_UC8279, // Xteink X3 batches with the UC8279d controller
+    EP368_792x528_UC8279_4GRAY,
     EP_PANEL_COUNT
 };
 #ifdef FUTURE
